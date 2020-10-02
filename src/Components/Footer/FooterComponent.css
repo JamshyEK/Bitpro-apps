@@ -1,0 +1,36 @@
+.footer{
+    background-color: #212529;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+                
+}
+#footer{
+    background-color: #272b2f;
+}
+#copy{
+    
+    margin-top: 0;
+    margin-bottom: .3rem;
+    color:#bdc1c3f2;
+    font-size: smaller;
+    text-align: center;
+}
+.footer-content{
+    color: #6c757d;
+}
+.footer-head{
+    font-weight: 600;
+    font-size: 1.2em;
+    color: white;
+}
+.list-unstyled{
+    font-size: 0.9em;
+    margin-top: 10px;
+}
+
+hr.footer-hr{
+    border: 0px;
+    border-top: 1px solid #6c757d;
+}
